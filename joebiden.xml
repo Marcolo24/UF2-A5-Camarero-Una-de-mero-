@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<platos>
+<comida nombre="Pollo al curry 🐔🍛" precio="11.99€" descripcion="Trozos de pollo en una salsa de curry con especias, cebolla y tomate." calorias="500-600 calorías por porción"> 
+</comida>
+<comida nombre="Pollo a la parrilla con verduras 🐔🍆🌽" precio="9.99€" descripcion="Pechuga de pollo a la parrilla con una mezcla de verduras asadas, incluyendo berenjenas, pimientos y maíz." calorias="400-500 calorías por porción.">
+
+</comida>
+<comida nombre="Pollo teriyaki con arroz 🐔🍚" precio="10.99€" descripcion="Pollo glaseado con salsa teriyaki, servido con arroz al vapor y vegetales." calorias="500-600 calorías por porción."> 
+
+</comida>
+<comida nombre="Pollo al horno con patatas 🐔🥔" precio="12.99€" descripcion="Pollo asado al horno con patatas y especias. Se sirve con una ensalada verde." calorias="400-500 calorías por porción."> 
+
+</comida>
+
+</platos>

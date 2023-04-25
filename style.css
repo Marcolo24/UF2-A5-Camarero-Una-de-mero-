@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "Terraria";
+    src: url("./letra/ANDYB.TTF");
+}
+
+body {
+    font-family: 'Terraria';
+    background-image: url(./img/menu.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: 100vh;
+    min-height: 120vh;
+    background-color: rgb(212, 207, 183);
+    color: white;
+}
+
+#principal {
+    display: flex;
+}
+
+#primera {
+    justify-content: center;
+    width: 20vw;
+    margin-left: 28vw;
+    margin-top: 50vh;
+}
+
+#segunda {
+    justify-content: center;
+    width: 20vw;
+    margin-left: 2vw;
+    margin-top: 50vh;
+}
